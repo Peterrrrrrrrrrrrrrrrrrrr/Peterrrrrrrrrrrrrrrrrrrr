@@ -5,7 +5,7 @@ Seeking opportunities to contribute to innovative projects in STEM engineering i
 
 ## Education
 - Bachelor of Science in Physics: Willamette University (2021)
-- Master of Robotics and Automation Engineering: University of Auckland (2024)
+- Master of Robotics and Automation Engineering: University of Auckland (2025)
 
 ## Industry Work
 - [Indicio Tech](https://indicio.tech/) (2021 - 2023)
