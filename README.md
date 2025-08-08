@@ -15,10 +15,10 @@ Seeking opportunities to contribute to innovative projects in STEM engineering i
 - [University of Auckland Account](https://github.com/Peterrrrrrrrrrrrrr)
 
 ## Experience
-- 6 years Python experience
+- 7 years Python experience
 - - 3.5 years computational physics (Willamette University)
   - 1.5 years blockchain security (Indicio Tech)
-  - 1 year various robotics and data analysis projects (University of Auckland)
+  - 2 year various robotics and data analysis projects (University of Auckland)
  - 1 year Javascript experience
  - - .5 years Vue.js for [Aries Acapy Plugin Toolbox](https://github.com/hyperledger-archives/aries-acapy-plugin-toolbox)
    - .5 years MERN Stack ([Game Development](https://github.com/Meowiarty-Games/Purrlock-Holme-s-Cryptography-Agency)) and Vue.js ([School Project](https://github.com/UOA-CS732-SE750-Students-2024/cs732-assignment-Peterrrrrrrrrrrrrr))
